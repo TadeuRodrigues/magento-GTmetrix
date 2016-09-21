@@ -1,5 +1,5 @@
 <?php
-class Mage_Adminhtml_Model_System_Config_Source_Browser
+class TadeuRodrigues_Gtmetrix_Model_System_Config_Source_Browser
 {
 
     /**
