@@ -1,6 +1,6 @@
 <?php
 
-class TadeuRodrigues_GTmetrix_Adminhtml_GTmetrixController extends Mage_Adminhtml_Controller_Action
+class TadeuRodrigues_GTmetrix_Adminhtml_Gtmetrix_GTmetrixController extends Mage_Adminhtml_Controller_Action
 {
 		protected function _initAction()
 		{

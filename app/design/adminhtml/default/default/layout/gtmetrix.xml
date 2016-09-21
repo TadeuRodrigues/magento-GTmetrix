@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <layout version="0.1.0">
-  <gtmetrix_adminhtml_gtmetrix_index>
+  <adminhtml_gtmetrix_gtmetrix_index>
 	<reference name="content">
 	  <block type="gtmetrix/adminhtml_gtmetrix" name="gtmetrix" />
 	</reference>
-  </gtmetrix_adminhtml_gtmetrix_index>
+  </adminhtml_gtmetrix_gtmetrix_index>
 </layout>
