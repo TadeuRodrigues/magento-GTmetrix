@@ -1,5 +1,5 @@
 <?php
-class TadeuRodrigues_GTmetrix_Model_Mysql4_GTmetrix extends Mage_Core_Model_Mysql4_Abstract
+class TadeuRodrigues_GTmetrix_Model_Mysql4_GTmetrix extends TadeuRodrigues_GTmetrix_Model_Resource_GTmetrix
 {
     protected function _construct()
     {
